@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+torch
+pandas
+numpy
+scikit-learn
+cryptography
+python-dotenv
+requests
+streamlit
+matplotlib
